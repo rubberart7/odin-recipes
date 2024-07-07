@@ -1,0 +1,32 @@
+.main_title {
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif, Helvetica, sans-serif;
+}
+
+.pages_links {
+    text-align: center;
+    display: block;
+    margin: 5px 0; /* Optional: adds some space between the links */
+}
+
+.food_name {
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.food_name#Chicken_Noodle_Salad {
+    color: darkblue;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border: 5px solid burlywood;
+    border-radius: 7px;
+}
+
+
